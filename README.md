@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1>Hi 👋, I'm Pavani Rathwaththwe</h1>
 <p>🎓 Studying Information Technology at University Of Vavuniya</p>
 <h2>🚀 Languages and Tools I Use</h2>
