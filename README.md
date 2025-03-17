@@ -1,4 +1,3 @@
-
 <h1>Hi 👋, I'm Pavani Rathwaththwe</h1>
 <p>🎓 Studying Information Technology at University Of Vavuniya</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -13,6 +12,10 @@
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/pavani-pabasara-903974355" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<h2>Certified with :</h2>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavani2118&show_icons=true&locale=en" alt="pavani2118" />
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavani2118&show_icons=true&locale=en" alt="pavani2118" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavani2118&" alt="pavani2118" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavani2118&show_icons=true&locale=en&layout=compact" alt="pavani2118" /></p>
