@@ -14,7 +14,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/pavani-pabasara-903974355" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <h2>Certified with :</h2>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavani2118&show_icons=true&locale=en" alt="pavani2118" />
+  <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/javascript-essentials-1%20badge.png?raw=true" alt="pavani2118" width="85" height="85"/>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavani2118&show_icons=true&locale=en" alt="pavani2118" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavani2118&" alt="pavani2118" /></p>
