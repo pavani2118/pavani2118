@@ -9,8 +9,4 @@
 <p>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/javascript-essentials-1%20badge.png?raw=true" alt="pavani2118" width="85" height="85"/>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavani2118&show_icons=true&locale=en" alt="pavani2118" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavani2118&" alt="pavani2118" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavani2118&show_icons=true&locale=en&layout=compact" alt="pavani2118" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavani2118" alt="pavani2118" /></a></p>
 
