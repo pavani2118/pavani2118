@@ -28,5 +28,8 @@
 <p>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/javascript-essentials-1%20badge.png?raw=true" alt="pavani2118" width="85" height="85"/>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/linux-essentials.png" alt="pavani2118" width="85" height="85"/>
+  <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/linux-essentials.png" alt="pavani2118" width="85" height="85"/>
+  <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/linux-essentials.png" alt="pavani2118" width="85" height="85"/>
+
 </p>
 
