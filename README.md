@@ -23,7 +23,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </p>
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/pavani-pabasara-903974355" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="www.linkedin.com/in/pavani-pabasara-903974355"
+ style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <h2>Certified with :</h2>
 <p>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/javascript-essentials-1%20badge.png?raw=true" alt="pavani2118" width="85" height="85"/>
