@@ -35,6 +35,6 @@
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/cybersecurity-fundamentals.png" alt="pavani2118" width="85" height="85"/>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/getting-started-with-cybersecurity.png" alt="pavani2118" width="85" height="85"/>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/Postman - Postman API Fundamentals Student Expert - 2025-05-24.png" alt="pavani2118" width="85" height="85"/>
-
+   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/operating-systems-overview-administration-and-secur.png" alt="pavani2118" width="85" height="85"/>
 </p>
 
