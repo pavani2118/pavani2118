@@ -28,11 +28,13 @@
 <h2>Certified with :</h2>
 <p>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/javascript-essentials-1%20badge.png?raw=true" alt="pavani2118" width="85" height="85"/>
+   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/javascript-essentials-1%20badge.png?raw=true" alt="pavani2118" width="85" height="85"/>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/linux-essentials.png" alt="pavani2118" width="85" height="85"/>
+   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/lfs101-introduction-to-linux.png" alt="pavani2118" width="85" height="85"/>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/download.png" alt="pavani2118" width="100" height="100"/>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/cybersecurity-fundamentals.png" alt="pavani2118" width="85" height="85"/>
   <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/getting-started-with-cybersecurity.png" alt="pavani2118" width="85" height="85"/>
-  <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/getting-started-with-cybersecurity.png" alt="pavani2118" width="85" height="85"/>
+  <img align="center" src="https://github.com/pavani2118/pavani2118/blob/main/images/lfs101-introduction-to-linux.png" alt="pavani2118" width="85" height="85"/>
 
 </p>
 
